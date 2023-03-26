@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montaga&display=swap');
+
+
+.page-three-container{
+    margin-top: 3rem;
+    font-family: 'Montaga', serif;
+}
+
+.content-header {
+    text-align: center;
+    font-size: 2rem;
+}
+.content-three-header{
+    margin-top: 3rem;
+    display: inline-flex;
+    align-items: center;
+    
+}
+
+.content{
+    text-align: center;
+    margin-left: 14px;
+    line-height: 40px;
+}
+
+.item-image{
+    width: 19rem;
+    height: 20rem;
+}
+
+.btn{
+    padding: 10px 20px;
+}

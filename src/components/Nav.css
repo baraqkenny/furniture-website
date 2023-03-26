@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montaga&display=swap');
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    height: 3.5rem;
+    padding-top: 2rem;
+}
+
+.nav > a {
+    margin-left: 2rem;
+    text-decoration: none;
+    color: #000;
+    font-size: 2rem;
+}
+
+.nav > ul {
+    margin-right: 7rem;
+}
+
+.nav > ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 5rem;
+    font-family: 'Montaga', serif;
+  
+}
+
+.cart-icon-container{
+    margin-right: 4rem;
+    font-size: 2rem;
+   
+}
